@@ -15,3 +15,4 @@ That means that letter case matters. (A differs from a)
 ## Summary of commands:
 * System.out.println(); — Prints somethin in a newline
     * Example: System.out.println("Hello World") Prints on the screen "Hello World"
+* int variable_name; — Creates a integer variable.
