@@ -1,5 +1,5 @@
 ---
-title: Variables and Data Types
+title: Variables and Data Types (Notes)
 has_children: true
 parent: Java Programming Basics
 nav_order: 1
