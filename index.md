@@ -2,10 +2,8 @@
 title: Home Page
 nav_order: 1
 ---
-# Home Page
 
-
-## Welcome to The AI Path!
+# Welcome to The AI Path!
 
 ### What's for?
 This page is meant to document and organize my studies on the Artificial Inteligence field. Primarly to serve as an review source for my studies but hopefully to help someone else explore this technology too.
