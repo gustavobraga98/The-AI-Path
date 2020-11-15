@@ -15,9 +15,9 @@ After that you need a strong base on Java and JavaScript, therefore I suggest yo
 1. [Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282)
 2. [Object Oriented Programming in Java](https://www.udacity.com/course/object-oriented-programming-in-java--ud283)
 
-Along the courses you will have a bunch of questions that will pop up in your head, i strongly suggest you to grab this book and search for the subject in matter. The less doubt you have about a term or concept the less probable that you will back out of the classes.
+Along the courses you will have a bunch of questions that will pop up in your head, i strongly suggest you to grab the cited book and search for the subject in matter. The less doubt you have about a term or concept the less probable that you will back out of the classes.
 
-With the materials in hand you should take your first course:
+With the materials in hand you should take your first course in the field of RL:
 2. [Practical Reinforcement Learning course](https://www.coursera.org/learn/practical-rl) from Coursera
 
 On the left menu or down here on table of content you should find a new tab where I will compile <b>MINE</b> notes about the course. You can use this to help you in your path to Learn RL.
