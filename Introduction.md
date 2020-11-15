@@ -10,7 +10,7 @@ This section is meant to be an resumee of the entire wiki:
 For now I will recommend only one book and explain its use:
 1. 
 <div class="text-blue mb-2">
-  .[Reinforcement Learning: An introduction.](http://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
+  [Reinforcement Learning: An introduction.](http://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
 </div>
 by Sutton and Barto
 
