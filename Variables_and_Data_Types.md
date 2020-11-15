@@ -2,7 +2,7 @@
 title: Variables and Data Types (Notes)
 has_children: true
 parent: Java Programming Basics
-grandparent: Introduction
+grand_parent: Introduction
 nav_order: 1
 ---
 
