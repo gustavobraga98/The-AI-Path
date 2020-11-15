@@ -8,10 +8,7 @@ This section is meant to be an resumee of the entire wiki:
 
 # Starters Kit:
 For now I will recommend only one book and explain its use:
-1. 
-<div class="text-blue mb-2">
-  [Reinforcement Learning: An introduction.](http://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
-</div>
+1. [Reinforcement Learning: An introduction.](http://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf) —
 by Sutton and Barto
 
 Along the courses you will have a bunch of questions that will pop up in your head, i strongly suggest you to grab this book and search for the subject in matter. The less doubt you have about a term or concept the less probable that you will back out of the classes.
