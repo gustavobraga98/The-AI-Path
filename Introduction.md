@@ -19,4 +19,4 @@ Along the courses you will have a bunch of questions that will pop up in your he
 With the materials in hand you should take your first course:
 2. [Practical Reinforcement Learning course](https://www.coursera.org/learn/practical-rl) from Coursera
 
-On the left menu or down here on table of content you should find a new tab [Pratical Reinforcement Learning Course Notes](https://gustavobraga98.github.io/The-AI-Path/Practical_Reinforcement_Learning(Coursera).html) where I will compile <b>MINE</b> notes about the course. You can use this to help you in your path to Learn RL.
+On the left menu or down here on table of content you should find a new tab where I will compile <b>MINE</b> notes about the course. You can use this to help you in your path to Learn RL.
