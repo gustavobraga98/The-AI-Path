@@ -17,24 +17,24 @@ That means that letter case matters. (A differs from a)
 5. String Concatenation: 
 
     If you have two different strings like the name and the last name of someone:
-    ´´´java
+    ```java
     String Name;
     String LastName;
     Name = "Hamish"
     LastName = "Blake"
-    ´´´
+    ```
     you can concatenate them by using:
-    ´´´java
+    ```java
     String FullName;
     FullName = Name+" "+LastName
-    ´´´
+    ```
     And the output will be: "Hamish Blake"
 6. Declare and Initialize Variables:
 
     You can declare a variable and start it with some value, for example:
-    ´´´
+    ```java
     String Name = "Jake";
-    ´´´
+   ```
 
 ## Summary of commands:
 * System.out.println(); — Prints somethin in a newline
